@@ -3,8 +3,8 @@ import Me from "../../Img/meImg.png"
 
 const Intro = () => {
     return (
-        <div className="intro">
-            <div className="intro-left">
+        <div className="i">
+            <div className="i-left">
             <div className="i-left-wrapper">
                 <h2 className="i-intro">Hello, My name is</h2>
                 <h1 className="i-name">Edvinas Ramanauskas</h1>
@@ -24,9 +24,11 @@ const Intro = () => {
             </div>
             
             </div>
-            <div className="intro-right">
-                <div className="i-bg"></div>
+            <div className="i-right">
+                <div className="i-bg">
+
                 <img src={Me} alt="" className="i-img"></img>
+                </div>
             </div>
 
         </div>
