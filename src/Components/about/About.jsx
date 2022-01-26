@@ -24,7 +24,10 @@ const About = () => {
                     I decided to join the programmers' crew very spontaneous, one day my mother told me that she applied for studies in one of the programming institutes
                     and that news hit me hard as the wall, so I told to myself I had to try it once again and I LOVED IT I found myself in this profession after years of trying a lot of other professions.
                     More about me I love to race with cartings, take photos of everything read books and travel.
+                    Here are some projects which may interest you.
+                    Book-app: https://books-sorting-app.herokuapp.com/
                 </p>
+
                 <div className="a-award">
                     <img src={Award} alt="" className="a-award-img" />
                     <div className="a-award-texts">
