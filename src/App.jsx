@@ -7,7 +7,7 @@ import Contact from './Components/contact/Contact';
 
 
 function App() {
-  
+
   return (
     <div>
       <Intro />
@@ -16,6 +16,7 @@ function App() {
       <Contact />
     </div>
   );
+
 }
 
 export default App;
