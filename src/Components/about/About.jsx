@@ -26,7 +26,7 @@ const About = () => {
                     More about me I love to race with cartings, take photos of everything read books and travel.
                     Here are some projects which may interest you.
                     <br></br>
-                    Book-app: <a>https://books-sorting-app.herokuapp.com/</a>
+                    Book-app: <a href="https://books-sorting-app.herokuapp.com/">Hidden heroku link</a>
                 </p>
 
                 <div className="a-award">
