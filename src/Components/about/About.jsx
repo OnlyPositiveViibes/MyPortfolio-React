@@ -28,7 +28,7 @@ const About = () => {
                     <br></br>
                     <li> Book-app: <a href="https://books-sorting-app.herokuapp.com/">Library</a> </li>
                     <li> Domino-clicker: <a href="https://domino-clicker.herokuapp.com/">Domino</a></li>
-                    <li> Restaurant-design: <a href="">Casa de la pasta</a></li>
+                    <li> Restaurant-design: <a href="https://onlypositiveviibes.github.io/Restaurant-page/">Casa de la pasta</a></li>
                 </p>
 
                 <div className="a-award">
