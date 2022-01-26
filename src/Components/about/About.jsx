@@ -25,6 +25,7 @@ const About = () => {
                     and that news hit me hard as the wall, so I told to myself I had to try it once again and I LOVED IT I found myself in this profession after years of trying a lot of other professions.
                     More about me I love to race with cartings, take photos of everything read books and travel.
                     Here are some projects which may interest you.
+                    <br></br>
                     Book-app: <a>https://books-sorting-app.herokuapp.com/</a>
                 </p>
 
