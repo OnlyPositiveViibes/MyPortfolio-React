@@ -48,7 +48,7 @@ const Contact = () => {
                 </div>
                 <div className="contact-right">
                     <p className="contact-desc">
-                        <b>What's your opinion about this project</b> Don't be shy to contact me if you liked 
+                        <b>What's your opinion about this project</b> You can contact me via this form. <b>This form is connected with EmailJs</b> 
                     </p>
                     <form ref={formRef} onSubmit={handleSubmit}>
                         <input type="text" placeholder="Name" name="user_name" />
